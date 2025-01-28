@@ -20,7 +20,7 @@ To get started with My Website, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/Anurag-singh-thakur/AR_Jaypee-.git
+   git clone https://github.com/isthatyous/TheVrEstate.git
    ```
 
 2. **Install dependencies:**
