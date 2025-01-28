@@ -1,10 +1,13 @@
-# AR-JUET
+# VIRTUAL ESTATE
 
 ## Overview
 My Website is a modern web application built with Next.js and TypeScript, featuring a responsive design, dynamic routing, and a rich user interface. The application leverages React components, Framer Motion for animations, and a custom color palette for an enhanced user experience.
 
+**Live Demo**: [Checkout the Project](https:https://www.thevrestate.com/)
+
+
 ## Table of Contents
-- [AR-JUET](#ar-juet)
+- [VIRTUAL ESTATE ](#virtual-estate)
   - [Overview](#overview)
   - [Table of Contents](#table-of-contents)
   - [Installation](#installation)
